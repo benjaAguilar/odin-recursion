@@ -1,0 +1,12 @@
+{
+  "name": "odin-recursion",
+  "version": "1.0.0",
+  "description": "odin task, creating a fibonacci secuence and merge sort using recursion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
